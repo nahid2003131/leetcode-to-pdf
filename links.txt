@@ -1,0 +1,14 @@
+~Prefix Sum
+https://leetcode.com/problems/range-sum-query-immutable/description/
+https://leetcode.com/problems/contiguous-array/description/
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+~Two Pointers
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+https://leetcode.com/problems/3sum/description/
+https://leetcode.com/problems/container-with-most-water/description/
+
+~Sliding Window
+https://leetcode.com/problems/maximum-average-subarray-i/description/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+https://leetcode.com/problems/minimum-window-substring/description/
